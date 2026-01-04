@@ -1,4 +1,7 @@
 package com.caio.lms.domain.user;
 
-public class UserRole {
+public enum UserRole {
+    STUDENT,
+    INSTRUCTOR,
+    ADMIN
 }

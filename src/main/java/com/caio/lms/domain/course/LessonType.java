@@ -1,2 +1,7 @@
-package com.caio.lms.domain.course;public class LessonType {
+package com.caio.lms.domain.course;
+
+public enum LessonType {
+    VIDEO,
+    TEXT,
+    PDF
 }
