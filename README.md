@@ -118,7 +118,7 @@ A API estará disponível em http://localhost:8080.
 
 [x] Modelagem lógica do domínio
 
-[ ] Implementação de Entidades JPA (Course, Module, Lesson)
+[X] Implementação de Entidades JPA (Course, Module, Lesson)
 
 [ ] Lógica de Matrículas e Validação de Progresso
 
