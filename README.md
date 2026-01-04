@@ -1,7 +1,3 @@
-Este é um excelente ponto de partida para o seu portfólio. A estrutura está bem organizada e segue as melhores práticas de mercado, como o uso de Conventional Commits e a separação clara de responsabilidades.
-
-Abaixo, transformei as informações que você enviou em um arquivo README.md profissional e completo, pronto para ser colocado no seu repositório GitHub.
-
 🎓 LMS Platform – Plataforma de Cursos Online
 Uma robusta plataforma de Gerenciamento de Aprendizagem (LMS - Learning Management System) desenvolvida com Spring Boot 3. Este projeto foca em arquitetura limpa, regras de negócio reais e controle granular de progresso do aluno.
 
