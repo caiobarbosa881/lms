@@ -12,6 +12,7 @@ import java.util.List;
 @Builder
 @Table(name = "modules")
 public class Module {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -19,6 +20,8 @@ public class Module {
     @Column(nullable = false)
     private String title;
 
+    // índice de ordenação do módulo dentro do curso
+    @Column(nullable = false)
     private Integer orderIndex;
 
     @ManyToOne
